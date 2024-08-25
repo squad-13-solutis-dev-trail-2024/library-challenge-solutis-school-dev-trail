@@ -1,4 +1,4 @@
-# Projeto 1 - Sistema de Gerenciamento de Livraria Virtual
+# Projeto 1 - Sistema de Livraria Virtual
 
 ## 1. Introdução
 
