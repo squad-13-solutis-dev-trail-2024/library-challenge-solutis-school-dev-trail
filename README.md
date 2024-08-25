@@ -83,8 +83,11 @@ Métodos obrigatórios:
 
 1. **Pedro Emanoel** - Implementar a classe `Livro` e métodos da classe `LivrariaVirtual`.
 2. **Pedro Messias** - Desenvolver a classe `Impresso` e o método `listarLivrosImpressos()`.
-3. **Suerdo Campos** - Trabalhar na classe `Eletronico` e no método `listarLivrosEletronicos()`.
+3. **Suerdo Flaubert** - Trabalhar na classe `Eletronico` e no método `listarLivrosEletronicos()`.
 4. **Kauê Alexandre** - Implementar a classe `Venda` e os métodos `addLivro()` e `listarLivros()`.
 5. **Gabriel de Abreu** - Desenvolver o método `cadastrarLivro()` e auxiliar no método `realizarVenda()`.
 6. **Vinicius Andrade** - Trabalhar na implementação do método `listarVendas()` e testar a integração do sistema.
 7. **Aldemir Carlos** - Auxiliar na implementação dos métodos da classe `LivrariaVirtual` e revisar o código.
+
+## 5. Observação
+  Todos os membros participaram do code-review.
