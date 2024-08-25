@@ -81,8 +81,6 @@ Métodos obrigatórios:
 
 ## 4. Distribuição de Tarefas
 
-A seguir, os membros foram distribuídos aleatoriamente para as tarefas do projeto:
-
 1. **Pedro Emanoel** - Implementar a classe `Livro` e métodos da classe `LivrariaVirtual`.
 2. **Pedro Messias** - Desenvolver a classe `Impresso` e o método `listarLivrosImpressos()`.
 3. **Suerdo Campos** - Trabalhar na classe `Eletronico` e no método `listarLivrosEletronicos()`.
