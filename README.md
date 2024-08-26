@@ -96,13 +96,13 @@ Métodos obrigatórios:
 
 ## 4. Distribuição de Tarefas
 
-1. **Aldemir Carlos** - Desenvolveu a classe `LivrariaVirtual` e seus métodos `main()`, `listarLivrosEletronicos()`, `listarLivros()`, e `listarVendas()`.
-2. **Gabriel de Abreu** - Desenvolveu a classe `LivrariaVirtual` e seus métodos `cadastrarLivro()`, `realizarVenda()`, e `listarLivrosImpressos()`.
-3. **Kauê Alexandre** - Desenvolveu a classe `Venda` e seus métodos `addLivro()`, `listarLivros()`, `toString()`, `equals()` e `hashCode()`.
-4. **Pedro Emanoel** - Desenvolveu a classe `Livro` e seu método `toString()`, `equals()` e `hashCode()`.
-5. **Suerdo Flaubert** - Desenvolveu a classe `Eletronico` e seu método `toString()`, `equals()` e `hashCode()`.
-6. **Pedro Messias** - Desenvolveu a classe `Impresso` e seus métodos `atualizarEstoque()`, `toString()`, `equals()` e `hashCode()`.
-7. **Vinícius Andrade** - Desenvolveu a classe `EntradaDeDados.java` e seus métodos para leitura de entrada de dados e suas validações pertinentes: `lerTipoLivroVenda()`, `lerTipoLivroCadastro()` ,
+1. **Aldemir Carlos** - Desenvolveu a classe `LivrariaVirtual` e seus métodos `main()`, `listarLivrosEletronicos()`, `listarLivros()`, `listarVendas()` e getters.
+2. **Gabriel de Abreu** - Desenvolveu a classe `LivrariaVirtual` e seus métodos `cadastrarLivro()`, `realizarVenda()`, e `listarLivrosImpressos()` e getters.
+3. **Kauê Alexandre** - Desenvolveu a classe `Venda` e seus métodos `addLivro()`, `listarLivros()`, `toString()`, `equals()` e `hashCode()`. Além dos construtores, getters e setters.
+4. **Pedro Emanoel** - Desenvolveu a classe `Livro` e seu método `toString()`, `equals()` e `hashCode()`. Além dos construtores, getters e setters.
+5. **Suerdo Flaubert** - Desenvolveu a classe `Eletronico` e seu método `toString()`, `equals()` e `hashCode()`. Além dos construtores, getters e setters.
+6. **Pedro Messias** - Desenvolveu a classe `Impresso` e seus métodos `atualizarEstoque()`, `toString()`, `equals()` e `hashCode()`. Além dos construtores, getters e setters.
+7. **Vinícius Andrade** - Desenvolveu a classe `EntradaDeDados` e seus métodos para leitura de entrada de dados e suas validações pertinentes: `lerTipoLivroVenda()`, `lerTipoLivroCadastro()` ,
 `lerTitulo()`, `lerAutores()`, `lerEditora()`, `lerPreco()`, `lerFrete()`, `lerEstoque()`, `lerTamanhoArquivoEmKB()`, `lerLivroID()`, `lerQuantidadeExemplares()` e `lerCliente()`
 
 ## 5. Observação
