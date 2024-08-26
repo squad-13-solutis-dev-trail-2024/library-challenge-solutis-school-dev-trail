@@ -2,6 +2,14 @@ DROP DATABASE IF EXISTS db_livraria_solutis;
 CREATE DATABASE IF NOT EXISTS db_livraria_solutis;
 USE db_livraria_solutis;
 
+SHOW TABLES ;
+
+DESCRIBE livro;
+DESCRIBE impresso;
+DESCRIBE eletronico;
+DESCRIBE venda;
+DESCRIBE venda_livro;
+
 CREATE TABLE livro
 (
     id      BIGINT UNSIGNED AUTO_INCREMENT  NOT NULL,
@@ -54,16 +62,11 @@ CREATE TABLE venda_livro
 );
 
 -- Para visualizar os dados da tabela livro
-SELECT *
-FROM livro;
-SELECT *
-FROM impresso;
-SELECT *
-FROM eletronico;
-SELECT *
-FROM venda;
-SELECT *
-FROM venda_livro;
+SELECT * FROM livro;
+SELECT * FROM impresso;
+SELECT * FROM eletronico;
+SELECT * FROM venda;
+SELECT * FROM venda_livro;
 
 -- Consulta para visualizar todos os livros com estoque, considerando livros impressos e eletrônicos
 SELECT l.id,
